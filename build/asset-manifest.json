@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ca45812.css",
+    "main.js": "/static/js/main.d0426630.js",
+    "static/media/JosefinSans-Medium.ttf": "/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "static/media/Bouddha.jpg": "/static/media/Bouddha.41cff8e9935152bbf2ce.jpg",
+    "index.html": "/index.html",
+    "main.5ca45812.css.map": "/static/css/main.5ca45812.css.map",
+    "main.d0426630.js.map": "/static/js/main.d0426630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca45812.css",
+    "static/js/main.d0426630.js"
+  ]
+}
